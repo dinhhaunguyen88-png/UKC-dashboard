@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Brain (local session)
+.brain/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Excel data (optional - comment out if you want to include it)
+# *.xlsx
+
+# Legacy
+vessel_operation_chart.png
